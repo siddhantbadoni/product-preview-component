@@ -161,7 +161,7 @@ svg {
     .imgcontainer {
         content: url(images/image-product-mobile.jpg);
         width: 354px;
-        height: 205px;
+        height: 182px;
         border-bottom-left-radius: 0px;
         border-top-right-radius: 5px;
         
@@ -170,7 +170,7 @@ svg {
         width: 354px;
         border-top-right-radius: 0px;
         border-bottom-left-radius: 5px;
-        height: 324px;
+        height: 308px;
     }
     .subproduct_detail {
         margin: 25px 15px 21px 17px
